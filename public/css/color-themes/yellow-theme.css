@@ -1,0 +1,143 @@
+/* Color Theme File */
+
+a,
+.theme_color,
+.main-menu .navigation > li:hover > a,
+.main-menu .navigation > li.current > a,
+.welcome-section .content-column .more-detail a,
+.news-block .inner-box .lower-box h3 a:hover,
+.news-block .inner-box .lower-box .read-more:hover,
+.testimonial-block .inner-box .author span,
+.main-footer .link-widget li a:hover,
+.list-style-one li .icon,
+.header-top .social-icon li a:hover,
+.page-title .bread-crumb li,
+.btn-style-one:hover,
+.page-title .bread-crumb li a:hover,
+.sidebar .sidebar-category .list li a:hover,
+.sidebar .sidebar-category .list li.current a,
+.footer-style-two .links-widget li a:hover,
+.sidebar .sidebar-category .list li a:after,
+.news-block-two .inner-box .lower-box h3 a:hover,
+.main-header .header-top .top-left .links li a:hover,
+.news-block-two .inner-box .lower-box .read-more:hover,
+.services-block .inner-box:hover .lower-box .content .text,
+.gallery-block .inner-box .image .overlay-box .content .category,
+.sidebar .recent-posts .post a, .sidebar .recent-posts .post a:hover,
+.sidebar-brochure .brochure:hover .icon, .sidebar-brochure .brochure:hover{
+	color:#FFDC00;
+}
+
+/*Background Color*/
+.btn-style-two:hover,
+.scroll-to-top:hover,
+.btn-style-three:hover,
+.sec-title h2:after,
+.news-block .inner-box .lower-box h3:after,
+.news-block .inner-box .lower-box:after,
+.services-section .services-title-box h2:after,
+.testimonial-section .owl-nav .owl-prev:hover,
+.testimonial-section .owl-nav .owl-next:hover,
+.main-menu .navigation > li > ul > li:hover > a,
+.social-icon-one li a:hover,
+.register-form .icon-box,
+.btn-style-one,
+.social-icon-two li a:hover,
+.welcome-section-two .form-column .inner-column .title-box,
+.main-menu .navigation > li > ul > li  > ul > li > a:hover,
+.services-block .inner-box:hover .lower-box .content .arrow-box,
+.project-section .filters .filter-tabs .filter.active,
+.project-section .filters .filter-tabs .filter:hover,
+.help-section .content-column .inner-column h2:after,
+.twitter-widget-block .inner .icon,
+.project-tab .product-tab-btns .p-tab-btn:hover,
+.project-tab .product-tab-btns .p-tab-btn.active-btn,
+.sidebar .sidebar-category .list li a:before,
+.sidebar-brochure .brochure:before,
+.news-block-two .inner-box .lower-box h3:after,
+.news-block-two .inner-box .lower-box:after,
+.sidebar .subscribe-widget .form-group input[type="submit"],
+.sidebar .subscribe-widget button,
+.sidebar-widget h2:after,
+.blog-single .inner-box .lower-box h3:after,
+.social-icon-three li a:hover,
+.contact-page-section h2:after,
+.contact-info .inner .icon-box,
+.fact-counter .column .inner:hover,
+.sidebar-page-container .group-title h2:after,
+.styled-pagination li a:hover, .styled-pagination li a.active{
+	background-color:#FFDC00;
+}
+
+/*Border Color*/
+
+.btn-style-one,
+.btn-style-two:hover,
+.btn-style-three:hover,
+.services-block .inner-box:hover .lower-box .content .arrow-box,
+.main-menu .navigation > li > ul,
+.main-menu .navigation > li > ul > li > ul,
+.main-header .nav-outer .search-box-outer .dropdown-menu,
+.main-header .nav-outer .search-panel input:focus,
+.main-header .nav-outer .search-panel select:focus,
+.project-section .filters .filter-tabs .filter.active,
+.project-section .filters .filter-tabs .filter:hover,
+.default-form .form-group input[type="text"]:focus,
+.default-form .form-group input[type="tel"]:focus,
+.default-form .form-group input[type="email"]:focus,
+.default-form .form-group textarea:focus,
+.register-form .form-group input[type="text"]:focus,
+.register-form .form-group input[type="tel"]:focus,
+.register-form .form-group input[type="email"]:focus,
+.register-form .form-group textarea:focus,
+.project-tab .product-tab-btns .p-tab-btn:hover,
+.project-tab .product-tab-btns .p-tab-btn.active-btn,
+.styled-pagination li a:hover, .styled-pagination li a.active,
+.comment-form .form-group input[type="text"]:focus,
+.comment-form .form-group input[type="password"]:focus,
+.comment-form .form-group input[type="tel"]:focus,
+.comment-form .form-group input[type="email"]:focus,
+.comment-form .form-group select:focus,
+.comment-form .form-group textarea:focus,
+.contact-form input:focus,
+.contact-form select:focus,
+.contact-form textarea:focus{
+	border-color:#FFDC00;
+}
+
+
+
+/*RGBA Color Light*/
+.fact-counter-section:before,
+.business-widget .inner-box:before{
+	background-color:rgba(255,220,0,0.94);
+}
+
+/*RGBA Color Dark*/
+
+@media only screen and (max-width: 767px){
+	
+	.main-menu .navbar-header .navbar-toggle{
+		border-color:#FFDC00;
+	}
+	
+	.main-menu .navbar-header .navbar-toggle,
+	.main-menu .navbar-collapse > .navigation,
+	.main-menu .navbar-collapse > .navigation > li > ul,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul,
+	.main-menu .navbar-collapse > .navigation > li > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li > a,
+	.main-menu .navbar-collapse > .navigation > li > a:hover,
+	.main-menu .navbar-collapse > .navigation > li > a:active,
+	.main-menu .navbar-collapse > .navigation > li > a:focus,
+	.main-menu .navbar-collapse > .navigation > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li.current > a,
+	.main-menu .navbar-collapse > .navigation > li.current-menu-item > a,
+	.header-style-two.inner-header .main-menu .navigation > li > a{
+		background-color:#FFDC00;
+	}
+	
+}
