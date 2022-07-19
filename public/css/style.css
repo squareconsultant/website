@@ -245,7 +245,7 @@ ul,li{
 
 img{
 	display:inline-block;
-	max-width:100%;
+	max-width:80%;
 	height:auto;	
 }
 
@@ -1029,7 +1029,7 @@ img{
 }
 
 .main-header.fixed-header .main-box{
-	margin-top:0px;
+	margin-top:-66px;
 	background-color:rgba(34,34,34,0.94);
 }
 
