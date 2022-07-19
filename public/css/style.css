@@ -245,7 +245,7 @@ ul,li{
 
 img{
 	display:inline-block;
-	max-width:80%;
+	max-width:100%;
 	height:auto;	
 }
 
@@ -1556,7 +1556,7 @@ img{
 .fact-counter .column .counter-title{
 	position:relative;
 	font-size:20px;
-	font-weight:1000;
+	font-weight:300;
 	color:#ffffff;
 	margin-top:10px;
 	font-style:italic;
